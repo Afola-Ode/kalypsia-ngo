@@ -425,6 +425,9 @@ footer aside {
     justify-content: space-evenly;
     row-gap: 2.5rem;
   }
+  .social-icons i{
+    padding: 3px 6px !important;
+  }
   .stats-img img {
     width: 62%;
   }
