@@ -468,6 +468,7 @@ footer aside {
   }
   .space {
     margin-top: 2rem;
+    flex-direction: inherit;
   }
   .andrew {
     margin-left: -2rem;
